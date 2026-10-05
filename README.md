@@ -5,7 +5,6 @@
 <div align="center">
   <a href="https://www.3dgifmaker.com/g/XixcFCoZEVE"><img src="https://www.3dgifmaker.com/i/XixcFCoZEVE.gif" title="Made at 3dgifmaker.com"/></a><div><a href="https://www.3dgifmaker.com/"> </a>
 </div>
-<h3 align="center">"Your secrets are safe with me because I'll probably forget them later"</h3>
 
 ---
 
