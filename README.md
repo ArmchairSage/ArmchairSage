@@ -1,3 +1,11 @@
+<h1 align="center">ArmchairSage</h1>
+<div align="center">
+  <a href="https://www.3dgifmaker.com/g/XixcFCoZEVE"><img src="https://www.3dgifmaker.com/i/XixcFCoZEVE.gif" title="made at 3dgifmaker.com"/></a><div><a href="https://www.3dgifmaker.com/"> </a>
+</div>
+<h3 align="center">Your secrets are safe with me because I'll probably forget them later</h3>
+
+---
+
 <div data-importer="techs" align="center">
   <!-- Android Studio -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio"/> </a>
@@ -38,11 +46,3 @@
   <!-- VisualStudio -->
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio"/> </a>
 </div>
-
-<h1 align="center">ArmchairSage</h1>
-<div align="center">
-  <a href="https://www.3dgifmaker.com/g/XixcFCoZEVE"><img src="https://www.3dgifmaker.com/i/XixcFCoZEVE.gif" title="made at 3dgifmaker.com"/></a><div><a href="https://www.3dgifmaker.com/"> </a>
-</div>
-<h3 align="center">Your secrets are safe with me because I'll probably forget them later</h3>
-
----
