@@ -1,8 +1,11 @@
-<h1 align="center">ArmchairSage</h1>
 <div align="center">
-  <a href="https://www.3dgifmaker.com/g/XixcFCoZEVE"><img src="https://www.3dgifmaker.com/i/XixcFCoZEVE.gif" title="made at 3dgifmaker.com"/></a><div><a href="https://www.3dgifmaker.com/"> </a>
+  <a href="https://www.fontbolt.com/font/y2k-font/"><img src="https://preview.fontget.com/tmp/6ac2fde78e138.png" /></a>
 </div>
-<h3 align="center">Your secrets are safe with me because I'll probably forget them later</h3>
+
+<div align="center">
+  <a href="https://www.3dgifmaker.com/g/XixcFCoZEVE"><img src="https://www.3dgifmaker.com/i/XixcFCoZEVE.gif" title="Made at 3dgifmaker.com"/></a><div><a href="https://www.3dgifmaker.com/"> </a>
+</div>
+<h3 align="center">"Your secrets are safe with me because I'll probably forget them later"</h3>
 
 ---
 
