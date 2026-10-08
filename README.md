@@ -24,11 +24,15 @@
   <tr>
     <td width="35%" valign="top" align="center">
       <a href="https://tenor.com/en-GB/view/toyota-toyota-celica-rally-castrol-spinning-car-gif-542638795884295178">
-        <img alt="Fun Fact: This is a Toyota Celica GT-Four (ST205). The GIF of this car is from tenor.com!" src="https://github.com/user-attachments/assets/16cb92ee-24ff-4bcc-aec8-f3c9ae108bcb"/>
+        <img alt="Fun Fact: This is a Toyota Celica GT-Four (ST205). The GIF of this car is from tenor.com!" src="https://github.com/user-attachments/assets/16cb92ee-24ff-4bcc-aec8-f3c9ae108bcb" height="220"/>
       </a>
       <h2>"How did you know I like cars?"<h2>
       <a href="https://github-stats-extended.vercel.app/frontend/">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=armchairsage&card_width=450&langs_count=4&theme=apprentice" alt="Most Used Programming Languages - made with GitHub Stats Extended"/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=armchairsage&card_width=350&langs_count=4&theme=apprentice" alt="Most Used Programming Languages - made with GitHub Stats Extended"/>
+      </a>
+      <h3>Icons sourced from Devicon ⭐<h3>
+      <a href="https://devicon.dev"> 
+        <img alt="Table icons sourced from Devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" height="70"/> 
       </a>
     </td>
   </tr>
@@ -51,6 +55,7 @@
 |<!-- JavaScript --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript"/> </a> <!-- JavaScript -->|<!-- ASP.NET --> <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="70" alt="ASP.NET"/> </a> <!-- ASP.NET -->|<!-- SQLite --> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="70" alt="SQLite"/> </a> <!-- SQLite -->|<!-- PyCharm --> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="70" alt="PyCharm"/> </a> <!-- PyCharm -->|
 |<!-- Python --><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="Python"/> </a> <!-- Python -->|||<!-- Visual Studio --> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="70" alt="Visual Studio"/> </a> <!-- Visual Studio -->|
 
+<!--
 <div id="user-content-toc" align="center">
   <ul style="list-style: none;">
     <summary>
@@ -61,3 +66,4 @@
     </a>
   </ul>
 </div>
+-->
