@@ -1,25 +1,27 @@
-<!-- Username -->
-<div align="center"> <a href="https://www.fontbolt.com/font/y2k-font/"> <img alt="Made with 'Rocket Pop' font at fontbolt.com" src="https://github.com/user-attachments/assets/3f1f71c9-0917-41ee-885d-fe3bccf0f376" /> </a> </div>
-
-<!-- Introduction -->
-<div align="center"> Currently studying as a Software Engineer. I like building interactive, creative projects with <strong>ASP.NET and Java</strong>. </div>
-
-<!-- Extra syntax here to remove underline formatting under Heading font -->
+<!-- Username + Introduction -->
 <div id="user-content-toc" align="center">
-  <ul align="center" style="list-style: none;">
+  <a href="https://www.fontbolt.com/font/y2k-font/">
+    <img alt="Username in 'Rocket Pop' font from fontbolt.com" src="https://github.com/user-attachments/assets/3f1f71c9-0917-41ee-885d-fe3bccf0f376"/>
+  </a>
+  <br/>Currently studying as a Software Engineer. I like building interactive, creative projects with <strong>ASP.NET and Java</strong>
+  <ul style="list-style: none;"> <!-- Extra syntax here to remove underline formatting under Heading font -->
     <summary> <h1>Thanks for stopping by!</h1> </summary>
   </ul>
 </div>
 
 <table>
   <tr> <!-- First row in table i.e. the headings -->
-    <th rowspan="3"> <!-- Entire left column is actually just a reaaaally long heading -->
-      <a href="https://tenor.com/en-GB/view/toyota-toyota-celica-rally-castrol-spinning-car-gif-542638795884295178"> <img alt="Toyota Celica GT-Four (ST205) GIF from tenor.com" src="https://github.com/user-attachments/assets/16cb92ee-24ff-4bcc-aec8-f3c9ae108bcb" width="450"/> </a>
+    <th rowspan="3" style="width: 100%;"> <!-- Entire left column is actually just a really long heading spanning through all table rows -->
+      <a href="https://tenor.com/en-GB/view/toyota-toyota-celica-rally-castrol-spinning-car-gif-542638795884295178">
+        <img alt="Toyota Celica GT-Four (ST205) GIF from tenor.com" src="https://github.com/user-attachments/assets/16cb92ee-24ff-4bcc-aec8-f3c9ae108bcb" width="450"/>
+      </a>
       <h2>"How did you know I like cars?"</h2>
-      <a href="https://github-stats-extended.vercel.app/frontend/"> <img src="https://github-stats-extended.vercel.app/api/top-langs?username=armchairsage&card_width=400&langs_count=4&theme=apprentice" alt="'Most Used Languages' card from GitHub Stats Extended"/> </a>
+      <a href="https://github-stats-extended.vercel.app/frontend/">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=armchairsage&card_width=400&langs_count=4&theme=apprentice" alt="GitHub Stats Extended"/>
+      </a>
     </th> <!-- End of left column -->
     <th id="user-content-toc" align="center"> <!-- Right column heading -->
-      <ul align="center" style="list-style: none;">
+      <ul style="list-style: none;">
         <summary> <h1>🖥️ I learned to use these! 👇</h1> </summary>
       </ul>
     </th> <!-- End of right column heading -->
@@ -37,15 +39,16 @@
   </td></tr> <!-- End of second row -->
 
   <tr> <!--Third row -->
-    <td id="user-content-toc" align="center"> <!-- Right column heading -->
-      <ul align="center" style="list-style: none;">
+    <td id="user-content-toc" align="center"> <!-- Extra syntax here to remove underline formatting under Heading font -->
+      <ul style="list-style: none;">
         <summary>
           <h2>Icons sourced from Devicon ⭐</h2> <br/>
-          <a href="https://devicon.dev"> <img alt="Devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" height="70"/> </a>
+          <a href="https://devicon.dev">
+            <img alt="Devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" height="70"/>
+          </a>
           <br/><br/>
         </summary>
       </ul>
-    </td> <!-- End of right column heading -->
+    </td>
   </tr> <!-- End of third row -->
-
 </table>
