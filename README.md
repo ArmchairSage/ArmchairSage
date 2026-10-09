@@ -3,7 +3,7 @@
   <a href="https://www.fontbolt.com/font/y2k-font/">
     <img alt="Username in 'Rocket Pop' font from fontbolt.com" src="https://github.com/user-attachments/assets/3f1f71c9-0917-41ee-885d-fe3bccf0f376"/>
   </a>
-  <br/>Currently studying as a Software Engineer. I like building interactive, creative projects with <strong>ASP.NET and Java</strong>
+  <br/>Currently studying as a Software Engineer. I like building interactive, creative projects with <strong>ASP.NET and Java</strong>.
   <ul style="list-style: none;"> <!-- Extra syntax here to remove underline formatting under Heading font -->
     <summary> <h1>Thanks for stopping by!</h1> </summary>
   </ul>
@@ -11,13 +11,13 @@
 
 <table>
   <tr> <!-- First row in table i.e. the headings -->
-    <th rowspan="3" style="width: 100%;"> <!-- Entire left column is actually just a really long heading spanning through all table rows -->
+    <th rowspan="3"> <!-- Entire left column is actually just a really long heading spanning through all table rows -->
       <a href="https://tenor.com/en-GB/view/toyota-toyota-celica-rally-castrol-spinning-car-gif-542638795884295178">
-        <img alt="Toyota Celica GT-Four (ST205) GIF from tenor.com" src="https://github.com/user-attachments/assets/16cb92ee-24ff-4bcc-aec8-f3c9ae108bcb" width="450"/>
+        <img alt="Toyota Celica GT-Four (ST205) GIF from tenor.com" src="https://github.com/user-attachments/assets/16cb92ee-24ff-4bcc-aec8-f3c9ae108bcb" width="375"/>
       </a>
       <h2>"How did you know I like cars?"</h2>
       <a href="https://github-stats-extended.vercel.app/frontend/">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=armchairsage&card_width=400&langs_count=4&theme=apprentice" alt="GitHub Stats Extended"/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=armchairsage&card_width=350&langs_count=4&theme=apprentice" alt="GitHub Stats Extended"/>
       </a>
     </th> <!-- End of left column -->
     <th id="user-content-toc" align="center"> <!-- Right column heading -->
