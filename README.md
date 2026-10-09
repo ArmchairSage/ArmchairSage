@@ -1,39 +1,26 @@
 <!-- Username -->
-<div align="center">
-  <a href="https://www.fontbolt.com/font/y2k-font/">
-    <img alt="Made with 'Rocket Pop' font at fontbolt.com" src="https://github.com/user-attachments/assets/3f1f71c9-0917-41ee-885d-fe3bccf0f376" />
-  </a>
-</div>
+<div align="center"> <a href="https://www.fontbolt.com/font/y2k-font/"> <img alt="Made with 'Rocket Pop' font at fontbolt.com" src="https://github.com/user-attachments/assets/3f1f71c9-0917-41ee-885d-fe3bccf0f376" /> </a> </div>
 
 <!-- Introduction -->
-<div align="center">
-  Currently studying as a Software Engineer. I like building interactive, creative projects with <strong>ASP.NET and Java</strong>.
-</div>
+<div align="center"> Currently studying as a Software Engineer. I like building interactive, creative projects with <strong>ASP.NET and Java</strong>. </div>
 
 <!-- Extra syntax here to remove underline formatting under Heading font -->
 <div id="user-content-toc" align="center">
   <ul align="center" style="list-style: none;">
-    <summary>
-      <h1>Thanks for stopping by!</h1>
-    </summary>
+    <summary> <h1>Thanks for stopping by!</h1> </summary>
   </ul>
 </div>
 
 <table>
   <tr> <!-- First row in table i.e. the headings -->
-    <th rowspan="2"> <!-- Entire left column is actually just a reaaaally long heading -->
-      <a href="https://tenor.com/en-GB/view/toyota-toyota-celica-rally-castrol-spinning-car-gif-542638795884295178"> <img alt="Toyota Celica GT-Four (ST205) GIF from tenor.com" src="https://github.com/user-attachments/assets/16cb92ee-24ff-4bcc-aec8-f3c9ae108bcb" height="300"/> </a>
+    <th rowspan="3"> <!-- Entire left column is actually just a reaaaally long heading -->
+      <a href="https://tenor.com/en-GB/view/toyota-toyota-celica-rally-castrol-spinning-car-gif-542638795884295178"> <img alt="Toyota Celica GT-Four (ST205) GIF from tenor.com" src="https://github.com/user-attachments/assets/16cb92ee-24ff-4bcc-aec8-f3c9ae108bcb" width="450"/> </a>
       <h2>"How did you know I like cars?"</h2>
-      <a href="https://github-stats-extended.vercel.app/frontend/"> <img src="https://github-stats-extended.vercel.app/api/top-langs?username=armchairsage&card_width=400&langs_count=4&theme=apprentice" alt="Most Used Programming Languages - made with GitHub Stats Extended"/> </a>
-      <h3>Icons sourced from Devicon ⭐</h3>
-      <a href="https://devicon.dev"> <img alt="Devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" height="70"/> </a>
-      <br/><br/>
+      <a href="https://github-stats-extended.vercel.app/frontend/"> <img src="https://github-stats-extended.vercel.app/api/top-langs?username=armchairsage&card_width=400&langs_count=4&theme=apprentice" alt="'Most Used Languages' card from GitHub Stats Extended"/> </a>
     </th> <!-- End of left column -->
     <th id="user-content-toc" align="center"> <!-- Right column heading -->
       <ul align="center" style="list-style: none;">
-        <summary>
-          <h1>🖥️ I learned to use these! 👇</h1>
-        </summary>
+        <summary> <h1>🖥️ I learned to use these! 👇</h1> </summary>
       </ul>
     </th> <!-- End of right column heading -->
   </tr> <!-- End of first row -->
@@ -48,4 +35,17 @@
 |<!-- JavaScript --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript"/> </a> <!-- JavaScript -->|<!-- ASP.NET --> <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="70" alt="ASP.NET"/> </a> <!-- ASP.NET -->|<!-- SQLite --> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="70" alt="SQLite"/> </a> <!-- SQLite -->|<!-- PyCharm --> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="70" alt="PyCharm"/> </a> <!-- PyCharm -->|
 |<!-- Python --><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="Python"/> </a> <!-- Python -->|||<!-- Visual Studio --> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="70" alt="Visual Studio"/> </a> <!-- Visual Studio -->|
   </td></tr> <!-- End of second row -->
+
+  <tr> <!--Third row -->
+    <td id="user-content-toc" align="center"> <!-- Right column heading -->
+      <ul align="center" style="list-style: none;">
+        <summary>
+          <h2>Icons sourced from Devicon ⭐</h2> <br/>
+          <a href="https://devicon.dev"> <img alt="Devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" height="70"/> </a>
+          <br/><br/>
+        </summary>
+      </ul>
+    </td> <!-- End of right column heading -->
+  </tr> <!-- End of third row -->
+
 </table>
