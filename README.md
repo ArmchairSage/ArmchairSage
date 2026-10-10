@@ -11,15 +11,13 @@
 
 <table>
   <tr> <!-- First row in table i.e. the headings -->
-    <th rowspan="3"> <!-- Entire left column is actually just a really long heading spanning through all table rows -->
-      <a href="https://tenor.com/en-GB/view/toyota-toyota-celica-rally-castrol-spinning-car-gif-542638795884295178">
-        <img alt="Toyota Celica GT-Four (ST205) GIF from tenor.com" src="https://github.com/user-attachments/assets/16cb92ee-24ff-4bcc-aec8-f3c9ae108bcb" width="375"/>
-      </a>
-      <h2>"How did you know I like cars?"</h2>
-      <a href="https://github-stats-extended.vercel.app/frontend/">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=armchairsage&card_width=350&langs_count=4&theme=apprentice" alt="GitHub Stats Extended"/>
-      </a>
-    </th> <!-- End of left column -->
+    <th id="user-content-toc"> <!-- Left column heading -->
+      <ul style="list-style: none;">
+        <summary>
+          <h2><a href="https://github.com/ArmchairSage?tab=repositories">🚧Looking 🏗️or My Projects?🔨</a></h2>
+        </summary>
+      </ul>
+    </th> <!-- End of left column heading -->
     <th id="user-content-toc" align="center"> <!-- Right column heading -->
       <ul style="list-style: none;">
         <summary> <h1>🖥️ I learned to use these! 👇</h1> </summary>
@@ -28,7 +26,16 @@
   </tr> <!-- End of first row -->
 
   <tr> <!-- Second row -->
-    <td>  <!-- Line 28 space is needed here or else the table breaks, no idea why but it's best not to touch it -->
+    <td rowspan="2" align="center"> <!-- left column spans through second and third table rows -->
+      <a href="https://tenor.com/en-GB/view/toyota-toyota-celica-rally-castrol-spinning-car-gif-542638795884295178">
+        <img alt="Toyota Celica GT-Four (ST205) GIF from tenor.com" src="https://github.com/user-attachments/assets/16cb92ee-24ff-4bcc-aec8-f3c9ae108bcb" width="370"/>
+      </a>
+      <h2>"How did you know I like cars?"</h2>
+      <a href="https://github-stats-extended.vercel.app/frontend/"> <!-- Most Used Programming Languages displayed via GitHub Stats Extended -->
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=armchairsage&card_width=350&langs_count=4&theme_light=swift&theme_dark=github_dark&border_color_dark=3d444d" alt="GitHub Stats Extended"/>
+      </a>
+    </td>
+    <td>  <!-- Line 39 space is needed here or else the table breaks, no idea why but it's best not to touch it -->
 
 | Programming<br/>Languages | Web<br/>Development | Data<br/>Analysis | Integrated<br/>Development<br/>Environments |
 |:---:|:---:|:---:|:---:|
