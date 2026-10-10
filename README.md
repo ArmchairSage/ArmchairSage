@@ -32,7 +32,7 @@
       </a>
       <h2>"How did you know I like cars?"</h2>
       <a href="https://github-stats-extended.vercel.app/frontend/"> <!-- Most Used Programming Languages displayed via GitHub Stats Extended -->
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=armchairsage&card_width=350&langs_count=4&theme_light=swift&theme_dark=github_dark&border_color_dark=3d444d" alt="GitHub Stats Extended"/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=armchairsage&card_width=350&langs_count=4&theme_light=light_github&theme_dark=github_dark&border_color_dark=3d444d" alt="GitHub Stats Extended"/>
       </a>
     </td>
     <td>  <!-- Line 39 space is needed here or else the table breaks, no idea why but it's best not to touch it -->
