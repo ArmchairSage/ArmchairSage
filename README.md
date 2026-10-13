@@ -3,7 +3,7 @@
   <a href="https://www.fontbolt.com/font/y2k-font/">
     <img alt="Username in 'Rocket Pop' font from fontbolt.com" src="https://github.com/user-attachments/assets/3f1f71c9-0917-41ee-885d-fe3bccf0f376"/>
   </a>
-  <br/>Currently studying as a Software Engineer. I like building interactive, creative projects with <strong>ASP.NET and Java</strong>.
+  <br/>Currently studying as a Software Engineer. I like building interactive, creative projects with <strong>ASP.NET and Java</strong>,<br/>and want to continue expanding my knowledge and experience in <strong>Python</strong>.
   <ul style="list-style: none;"> <!-- Extra syntax here to remove underline formatting under Heading font -->
     <summary> <h1>Thanks for stopping by!</h1> </summary>
   </ul>
@@ -14,7 +14,7 @@
     <th id="user-content-toc"> <!-- Left column heading -->
       <ul style="list-style: none;">
         <summary>
-          <h2><a href="https://github.com/ArmchairSage?tab=repositories">🚧Looking 🏗️or My Projects?🔨</a></h2>
+          <h2>🚧<a href="https://github.com/ArmchairSage?tab=repositories">Looking 🏗️or My Projects?</a>🔨</h2>
         </summary>
       </ul>
     </th> <!-- End of left column heading -->
@@ -28,7 +28,7 @@
   <tr> <!-- Second row -->
     <td rowspan="2" align="center"> <!-- left column spans through second and third table rows -->
       <a href="https://tenor.com/en-GB/view/toyota-toyota-celica-rally-castrol-spinning-car-gif-542638795884295178">
-        <img alt="Toyota Celica GT-Four (ST205) GIF from tenor.com" src="https://github.com/user-attachments/assets/16cb92ee-24ff-4bcc-aec8-f3c9ae108bcb" width="370"/>
+        <img alt="Toyota Celica GT-Four (ST205) GIF from tenor.com" src="https://github.com/user-attachments/assets/16cb92ee-24ff-4bcc-aec8-f3c9ae108bcb" width="345"/>
       </a>
       <h2>"How did you know I like cars?"</h2>
       <a href="https://github-stats-extended.vercel.app/frontend/"> <!-- Most Used Programming Languages displayed via GitHub Stats Extended -->
@@ -37,7 +37,7 @@
     </td>
     <td>  <!-- Line 39 space is needed here or else the table breaks, no idea why but it's best not to touch it -->
 
-| Programming<br/>Languages | Web<br/>Development | Database<br/>Design | Libraries | Integrated<br/>Development<br/>Environments |
+| Programming<br/>Languages | Web<br/>Development | Database<br/>Design | Libraries for<br/>Machine<br/>Learning | Integrated<br/>Development<br/>Environments |
 |:---:|:---:|:---:|:---:|:---:|
 |<!-- C# --> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70" alt="C#"/> </a> <!-- C# -->|<!-- HTML5 --> <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="HTML5"/> </a> <!-- HTML5 -->|<!-- MS-SQL --> <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="70" alt="Microsoft SQL Server"/> </a> <!-- MS-SQL -->|<!-- pandas --> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="70" alt="pandas"/> </a> <!-- pandas -->|<!-- Android Studio --> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="70" alt="Android Studio"/> </a> <!-- Android Studio -->|
 |<!-- Java --><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="Java"/> </a> <!-- Java -->|<!-- CSS --> <a href="https://www.w3.org/TR/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="CSS"/> </a> <!-- CSS -->|<!-- SQLite --> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="70" alt="SQLite"/> </a> <!-- SQLite -->|<!-- Numpy --> <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="70" alt="Numpy"/> </a> <!-- Numpy -->|<!-- NetBeans --> <a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" height="70" alt="Apache NetBeans"/> </a> <!-- NetBeans -->|
